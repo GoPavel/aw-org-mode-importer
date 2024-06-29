@@ -1,0 +1,11 @@
+* Pet Projects :work:
+** Super Mario Project
+*** DONE [#B] Drink Coffee
+CLOSED: [2024-06-30 Вс 00:12]
+:LOGBOOK:
+CLOCK: [2024-06-29 Сб 18:12]--[2024-06-29 Сб 18:35] =>  0:23
+:END:
+*** TODO Write down idea!
+:LOGBOOK:
+CLOCK: [2024-06-29 Сб 18:11]--[2024-06-29 Сб 21:11] =>  3:00
+:END:

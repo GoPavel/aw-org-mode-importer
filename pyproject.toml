@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aw-org-mode-importer"
+version = "0.1.0"
+description = "Importer of org-mode timetracking to ActivityWatch"
+authors = ["Pavel Golovin <gopavel0@gmail.com>"]
+license = "BSD 2-Clause License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+orgparse = "^0.4.20231004"
+aw-client = "^0.5.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
